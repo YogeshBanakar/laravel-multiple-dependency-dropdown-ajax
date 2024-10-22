@@ -62,7 +62,7 @@
                 url: '{{ route('getCountry') }}',
                 data: {region_id: region_id},
                 success: function(data){
-                    console.log(data);
+                    // console.log(data);
                     // $('#country').empty();
                     // $('#city').empty();
                     $('#country').empty().append('<option value="">Select a country</option>');
@@ -89,7 +89,7 @@
                     region_id: region_id
                 },
                 success: function(data){
-                    console.log(data);
+                    // console.log(data);
                     // $('#city').empty();
                     $('#city').empty().append('<option value="">Select a city</option>');
                     $.each(data, function(key, value) {
