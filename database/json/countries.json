@@ -1,0 +1,52 @@
+[
+    {
+        "country_name" : "India",
+        "region_id" : 1
+    },
+    {
+        "country_name" : "Bangladesh",
+        "region_id" : 1
+    },
+    {
+        "country_name" : "Japan",
+        "region_id" : 1
+    },
+    {
+        "country_name" : "Russia",
+        "region_id" : 2
+    },
+    {
+        "country_name" : "United Kingdom",
+        "region_id" : 2
+    },
+    {
+        "country_name" : "Spain",
+        "region_id" : 2
+    },
+    {
+        "country_name" : "Nigeria",
+        "region_id" : 3
+    },
+    {
+        "country_name" : "South Africa",
+        "region_id" : 3
+    },
+    {
+        "country_name" : "Egypt",
+        "region_id" : 3
+    },
+    {
+        "country_name" : "USA",
+        "region_id" : 4
+    },
+    {
+        "country_name" : "Argentina",
+        "region_id" : 4
+    },
+    {
+        "country_name" : "Canada",
+        "region_id" : 4
+    }
+ 
+
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "city_name" : "Delhi",
+        "country_id" : 1,
+        "region_id" : 1
+    },
+    {
+        "city_name" : "Mumbai",
+        "country_id" : 1,
+        "region_id" : 1
+    },
+    {
+        "city_name" : "Kolkata",
+        "country_id" : 1,
+        "region_id" : 1
+    },
+    {
+        "city_name" : "Dhaka",
+        "country_id" : 2,
+        "region_id" : 1
+    },
+    {
+        "city_name" : "Chattogram",
+        "country_id" : 2,
+        "region_id" : 1
+    },
+    {
+        "city_name" : "Gazipur",
+        "country_id" : 2,
+        "region_id" : 1
+    },
+    {
+        "city_name" : "Tokyo",
+        "country_id" : 3,
+        "region_id" : 1
+    },
+    {
+        "city_name" : "Osaka",
+        "country_id" : 3,
+        "region_id" : 1
+    },
+    {
+        "city_name" : "Nagoya",
+        "country_id" : 3,
+        "region_id" : 1
+    },
+    {
+        "city_name" : "Moscow",
+        "country_id" : 4,
+        "region_id" : 2
+    },
+    {
+        "city_name" : "Saint Petersburg",
+        "country_id" : 4,
+        "region_id" : 2
+    },
+    {
+        "city_name" : "Yekaterinburg",
+        "country_id" : 4,
+        "region_id" : 2
+    },
+    {
+        "city_name" : "Londaon",
+        "country_id" : 5,
+        "region_id" : 2
+    },
+    {
+        "city_name" : "Manchester",
+        "country_id" : 5,
+        "region_id" : 2
+    },
+    {
+        "city_name" : "Birmingham",
+        "country_id" : 5,
+        "region_id" : 2
+    },
+    {
+        "city_name" : "Madrid",
+        "country_id" : 6,
+        "region_id" : 2
+    },
+    {
+        "city_name" : "Barcelona",
+        "country_id" : 6,
+        "region_id" : 2
+    },
+    {
+        "city_name" : "Seville",
+        "country_id" : 6,
+        "region_id" : 2
+    },
+    {
+        "city_name" : "Lagos",
+        "country_id" : 7,
+        "region_id" : 3
+    },
+    {
+        "city_name" : "Kano",
+        "country_id" : 7,
+        "region_id" : 3
+    },
+    {
+        "city_name" : "Ibadan",
+        "country_id" : 7,
+        "region_id" : 3
+    },
+    {
+        "city_name" : "Cape Town",
+        "country_id" : 8,
+        "region_id" : 3
+    },
+    {
+        "city_name" : "Durban",
+        "country_id" : 8,
+        "region_id" : 3
+    },
+    {
+        "city_name" : "Johannesburg",
+        "country_id" : 8,
+        "region_id" : 3
+    },
+    {
+        "city_name" : "Cairo",
+        "country_id" : 9,
+        "region_id" : 3
+    },
+    {
+        "city_name" : "Alexandria",
+        "country_id" : 9,
+        "region_id" : 3
+    },
+    {
+        "city_name" : "Giza",
+        "country_id" : 9,
+        "region_id" : 3
+    },
+    {
+        "city_name" : "New York",
+        "country_id" : 10,
+        "region_id" : 4
+    },
+    {
+        "city_name" : "Chicago",
+        "country_id" : 10,
+        "region_id" : 4
+    },
+    {
+        "city_name" : "Phoenix",
+        "country_id" : 10,
+        "region_id" : 4
+    },
+    {
+        "city_name" : "Buenos Aires",
+        "country_id" : 11,
+        "region_id" : 4
+    },
+    {
+        "city_name" : "Córdoba",
+        "country_id" : 11,
+        "region_id" : 4
+    },
+    {
+        "city_name" : "Mendoza",
+        "country_id" : 11,
+        "region_id" : 4
+    },
+    {
+        "city_name" : "Toronto",
+        "country_id" : 12,
+        "region_id" : 4
+    },
+    {
+        "city_name" : "Montreal",
+        "country_id" : 12,
+        "region_id" : 4
+    },
+    {
+        "city_name" : "Winnipeg",
+        "country_id" : 12,
+        "region_id" : 4
+    }
+]
